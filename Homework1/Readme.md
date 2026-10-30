@@ -1,4 +1,6 @@
 ```c#
+
+Билет 2 — «Банк: счета и переводы»
 <Project Sdk="Microsoft.NET.Sdk.Web">
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
